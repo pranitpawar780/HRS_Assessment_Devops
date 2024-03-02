@@ -1,2 +1,2 @@
-# HRS_Assessment_Devops
-Repository includes Infrastructure, Automation and Coding test.
+# HRS_Coding_Assessment
+Repository includes Coding test.
